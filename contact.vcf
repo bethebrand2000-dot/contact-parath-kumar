@@ -5,6 +5,14 @@ FN:Parath Kumar S R
 TEL;TYPE=CELL,VOICE:+919659467277
 TEL;TYPE=WORK,VOICE:+918189969279
 EMAIL;TYPE=INTERNET,PREF:csparath@outlook.com
-ADR;TYPE=WORK:;;# New.21, Old No.9, 2nd Floor, K.R.Koil Street;West Mambalam;Chennai;Tamil Nadu;600033;India
-URL:https://bethebrand2000-dot.github.io/contact-parath-kumar/
+ADR;TYPE=WORK:;West Mambalam;# New.21, Old No.9, 2nd Floor, K.R.Koil Street;Chennai;Tamil Nadu;600033;India
+URL:https://wa.me/919659467277
+URL:https://maps.google.com/?q=%23%20New.21,%20Old%20No.9,%202nd%20Floor,%20K.R.Koil%20Street,%20West%20Mambalam,%20Chennai,%20Tamil%20Nadu%20600033
+URL:https://www.linkedin.com/in/parath-kumar-95438036a/
+item1.URL:https://wa.me/919659467277
+item1.X-ABLabel:WhatsApp
+item2.URL:https://maps.google.com/?q=%23%20New.21,%20Old%20No.9,%202nd%20Floor,%20K.R.Koil%20Street,%20West%20Mambalam,%20Chennai,%20Tamil%20Nadu%20600033
+item2.X-ABLabel:Location
+item3.URL:https://www.linkedin.com/in/parath-kumar-95438036a/
+item3.X-ABLabel:LinkedIn
 END:VCARD
