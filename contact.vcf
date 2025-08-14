@@ -1,18 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Kumar;Parath;S R;;
+N:S R;Parath Kumar;;;
 FN:Parath Kumar S R
-TEL;TYPE=CELL,VOICE:+919659467277
+TEL;TYPE=CELL,VOICE;TYPE=pref:+919659467277
 TEL;TYPE=WORK,VOICE:+918189969279
 EMAIL;TYPE=INTERNET,PREF:csparath@outlook.com
-ADR;TYPE=WORK:;West Mambalam;# New.21, Old No.9, 2nd Floor, K.R.Koil Street;Chennai;Tamil Nadu;600033;India
-URL:https://wa.me/919659467277?text=Hello!%20I%E2%80%99m%20interested%20and%20would%20like%20to%20connect.
-URL:https://maps.app.goo.gl/dT5rNdh8qh8SRjPM6?g_st=iw
+ADR;TYPE=WORK:;;# New.21, Old No.9, 2nd Floor, K.R.Koil Street;West Mambalam;Chennai;Tamil Nadu;600033;India
 URL:https://www.linkedin.com/in/parath-kumar-95438036a/
-item1.URL:https://wa.me/919659467277?text=Hello!%20I%E2%80%99m%20interested%20and%20would%20like%20to%20connect.
-item1.X-ABLabel:WhatsApp
-item2.URL:https://maps.app.goo.gl/dT5rNdh8qh8SRjPM6?g_st=iw
-item2.X-ABLabel:Location
-item3.URL:https://www.linkedin.com/in/parath-kumar-95438036a/
-item3.X-ABLabel:LinkedIn
+NOTE:WhatsApp https://wa.me/919659467277?text=Hello!%20I%E2%80%99m%20interested%20and%20would%20like%20to%20connect.\nLocation https://maps.app.goo.gl/dT5rNdh8qh8SRjPM6?g_st=iw
 END:VCARD
